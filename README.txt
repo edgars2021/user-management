@@ -1,6 +1,8 @@
 Database already created !!!
 
-Startup from project of UserManagementApp.Host
+How run App?
+1. cd UserManagementApp.Host
+2. dotent run
 
 If database does not exist then depend migration existence you should run just step 3.
 1. go to folder UserManagementApp.Core
