@@ -1,0 +1,12 @@
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.HttpApi.deps.json
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.HttpApi.dll
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.HttpApi.pdb
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.Core.dll
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.Core.pdb
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.csproj.AssemblyReference.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.AssemblyInfoInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.AssemblyInfo.cs
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.csproj.CoreCompileInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.csproj.CopyComplete
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.dll
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.HttpApi/obj/Debug/netcoreapp3.1/UserManagementApp.HttpApi.pdb

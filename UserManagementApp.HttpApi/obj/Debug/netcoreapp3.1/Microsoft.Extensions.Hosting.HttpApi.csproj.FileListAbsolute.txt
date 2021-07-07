@@ -1,0 +1,12 @@
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.deps.json
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.dll
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.pdb
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.csproj.AssemblyReference.cache
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.AssemblyInfoInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.AssemblyInfo.cs
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.csproj.CoreCompileInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.dll
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.pdb
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.Core.dll
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/bin/Debug/netcoreapp3.1/UserManagementApp.Core.pdb
+/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.HttpApi.csproj.CopyComplete

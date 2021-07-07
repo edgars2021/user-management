@@ -1,0 +1,48 @@
+<div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <h2>Add User</h2>
+        <br/>
+        <form [formGroup]="_userAddForm" (ngSubmit)="onSubmit()">
+          <div class="form-group">
+            <label>First Name</label>
+            <input type="text" formControlName="firstName" class="form-control" [ngClass]="{ 'is-invalid': submitted && userAddForm.firstName.errors }" />
+            <div *ngIf="submitted && userAddForm.firstName.errors" class="invalid-feedback">
+              <div *ngIf="userAddForm.firstName.errors.required">First Name is required</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" formControlName="lastName" class="form-control" [ngClass]="{ 'is-invalid': submitted && userAddForm.lastName.errors }" />
+            <div *ngIf="submitted && userAddForm.lastName.errors" class="invalid-feedback">
+              <div *ngIf="userAddForm.lastName.errors.required">Last Name is required</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Email</label>
+            <input type="text" formControlName="email" class="form-control" [ngClass]="{ 'is-invalid': submitted && userAddForm.email.errors }" />
+            <div *ngIf="submitted && userAddForm.email.errors" class="invalid-feedback">
+              <div *ngIf="userAddForm.email.errors.required">Email is required</div>
+              <div *ngIf="userAddForm.email.errors.email">Email must be a valid email address</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Phone number</label>
+            <input type="text" formControlName="phoneNumber" class="form-control" [ngClass]="{ 'is-invalid': submitted && userAddForm.phoneNumber.errors }" />
+            <div *ngIf="submitted && userAddForm.phoneNumber.errors" class="invalid-feedback">
+              <div *ngIf="userAddForm.phoneNumber.errors.required">Phone number is required</div>
+              <div *ngIf="userAddForm.phoneNumber.errors.pattern">Phone number is not numeric</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="d-flex justify-content-between">
+              <button [routerLink]="'/'" class="btn btn-success">Cancel</button>
+              <button [disabled]="loading" class="btn btn-success">Create</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

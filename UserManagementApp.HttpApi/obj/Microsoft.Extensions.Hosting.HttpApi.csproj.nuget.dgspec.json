@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/Microsoft.Extensions.Hosting.HttpApi.csproj": {}
+  },
+  "projects": {
+    "/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/Microsoft.Extensions.Hosting.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/Microsoft.Extensions.Hosting.HttpApi.csproj",
+        "projectName": "Microsoft.Extensions.Hosting.HttpApi",
+        "projectPath": "/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/Microsoft.Extensions.Hosting.HttpApi.csproj",
+        "packagesPath": "/home/edgaros/.nuget/packages/",
+        "outputPath": "/home/edgaros/RiderProjects/UserManagementApp/Microsoft.Extensions.Hosting.HttpApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/edgaros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/UserManagementApp.Core.csproj": {
+                "projectPath": "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/UserManagementApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/UserManagementApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/UserManagementApp.Core.csproj",
+        "projectName": "UserManagementApp.Core",
+        "projectPath": "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/UserManagementApp.Core.csproj",
+        "packagesPath": "/home/edgaros/.nuget/packages/",
+        "outputPath": "/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/edgaros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

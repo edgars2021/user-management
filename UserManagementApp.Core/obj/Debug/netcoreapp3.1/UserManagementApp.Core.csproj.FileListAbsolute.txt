@@ -1,0 +1,12 @@
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/bin/Debug/netcoreapp3.1/UserManagementApp.Core.deps.json
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/bin/Debug/netcoreapp3.1/UserManagementApp.Core.dll
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/bin/Debug/netcoreapp3.1/UserManagementApp.Core.pdb
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.csproj.AssemblyReference.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.AssemblyInfoInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.AssemblyInfo.cs
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.csproj.CoreCompileInputs.cache
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.dll
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.pdb
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/bin/Debug/netcoreapp3.1/UserManagementApp.Core.runtimeconfig.json
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/bin/Debug/netcoreapp3.1/UserManagementApp.Core.runtimeconfig.dev.json
+/home/edgaros/RiderProjects/UserManagementApp/UserManagementApp.Core/obj/Debug/netcoreapp3.1/UserManagementApp.Core.genruntimeconfig.cache
